@@ -3,7 +3,7 @@ Repositório de códigos e exercícios da aula 6 do modulo spring boot do curso 
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, você irá desenvolver uma API REST, que atende a uma Loja. Agora você irá praticar o que você aprendeu até agora no modulo de java do NExT sobre Java e Spring Boot, para criar uma pequena API para pedidos de produtos.
+Nesse desafio, você irá desenvolver uma API REST, que atende a uma Loja. Agora você irá praticar o que você aprendeu até agora no modulo de java do NExT sobre Java e Spring Boot, para criar uma pequena API para controle de produtos.
 
 Essa será uma API receberá requisições de um aplicativo movel, e retornará os produtos cadastrados na API e permitirá a criação de novos produtos.
 
