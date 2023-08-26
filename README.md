@@ -15,6 +15,8 @@ Essa será uma API receberá requisições de um aplicativo movel, e retornará 
 
 - **`Listar as categorias da sua API`**: Sua API deve ser capaz de retornar uma listagem, de todas as categorias que estão cadastrados na sua API.
 
+- **`Cadastrar uma cagtegoria na sua API`**: Sua API deve ser capaz de cadastrar uma nova categoria na sua API.
+
 ### Exemplo de rotas da API
 
   - **Rota `/produtos`**: Retorna todos os produtos cadastrados na API
